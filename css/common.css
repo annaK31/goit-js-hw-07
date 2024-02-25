@@ -12,6 +12,10 @@ body {
   color: #212121;
   line-height: 1.5;
 }
+ol,
+ul {
+  list-style-type: none;
+}
 
 .gallery {
   display: flex;
